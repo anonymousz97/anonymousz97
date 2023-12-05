@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! Please check [my blog](https://buiminhptit.github.io/) to know more about me .
+👋 Hi there! My name is Bui Chi Minh,
+- 🔭 I’m currently focus on LLM and its application.
+- 🌱 I’m currently a first-year M.s student at UET.
+- 📫 How to reach me: buichiminh.cntt@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anonymousz97&count_private=true&show_icons=true" />
