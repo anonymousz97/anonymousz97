@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Hello there! Please check [my blog](https://buiminhptit.github.io/) to know more about me .
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=buiminhptit&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anonymousz97&count_private=true&show_icons=true" />
 </a>
