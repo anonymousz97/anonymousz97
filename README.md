@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently focus on LLM and its application.
 - 🌱 I’m currently a first-year M.s student at UET.
 - 📫 How to reach me: buichiminh.cntt@gmail.com
+- ⚡ You can try out:
+    -  huggingface😄 : https://huggingface.co/minhbui
+    -  llm4fun🤔 : https://huggingface.co/llm4fun
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anonymousz97&count_private=true&show_icons=true" />
