@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hi there! My name is Bui Chi Minh,
 - 🔭 I’m currently focus on LLM and its application.
-- 🌱 I’m currently a first-year M.s student at UET.
+- 🌱 I’m currently a M.s student at UET.
 - 📫 How to reach me: buichiminh.cntt@gmail.com
 - ⚡ You can try out:
     -  huggingface😄 : https://huggingface.co/minhbui
